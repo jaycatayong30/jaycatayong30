@@ -1,7 +1,7 @@
 # Hi there, I'm Bejay O. Catayong! 👋
 
 ### Who am I?
-I am a dedicated **Bachelor of Science in Information Technology** student at **Jose Rizal University** based in the Philippines. I am an aspiring **Web Developer** with a passion for creating seamless user experiences and professional experience in high-volume technical troubleshooting.
+I am a recent **BSIT graduate from Jose Rizal University** and an aspiring **Full-Stack Web Developer** based in the Philippines. I pair my academic background and hands-on experience building web systems with a proven track record in professional technical troubleshooting. I love bridging the gap between robust backend logic and seamless, intuitive user experiences.
 
 ---
 
