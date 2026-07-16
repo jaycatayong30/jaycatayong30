@@ -1,7 +1,7 @@
 # Hi there, I'm Bejay O. Catayong! 👋
 
 ### Who am I?
-I am a recent **BSIT graduate from Jose Rizal University** and an aspiring **Full-Stack Web Developer** based in the Philippines. I pair my academic background and hands-on experience building web systems with a proven track record in professional technical troubleshooting. I love bridging the gap between robust backend logic and seamless, intuitive user experiences.
+I am a recent **BSIT graduate from Jose Rizal University** and an aspiring **Full-Stack Engineer** based in the Philippines. I pair my academic background and hands-on experience building web systems with a proven track record in professional technical troubleshooting. I love bridging the gap between robust backend logic and seamless, intuitive user experiences.
 
 ---
 
@@ -29,5 +29,5 @@ I am a recent **BSIT graduate from Jose Rizal University** and an aspiring **Ful
 
 ### How to reach me
 *   📧 **Email:** [bejay.catayong0830@gmail.com](mailto:bejay.catayong0830@gmail.com)
-*   🔗 **LinkedIn:** www.linkedin.com/in/bejay-catayong-012601335
+*   🔗 **LinkedIn:** www.linkedin.com/in/bejaycatayong
 *   🌐 **Portfolio:** https://catayongportfolio.vercel.app/
